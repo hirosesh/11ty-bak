@@ -1,0 +1,8 @@
+{
+  "name": "11ty",
+  "version": "0.1.0",
+  "description": "A repository for my Eleventy blog.",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
