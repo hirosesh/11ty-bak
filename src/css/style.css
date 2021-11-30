@@ -7,3 +7,9 @@ html {
 body {
   font-family: "Avenir", sans-serif;
 }
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 62.5rem; /* 1000px */
+  padding: 0 4%;
+}
