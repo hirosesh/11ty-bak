@@ -5,6 +5,8 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob(`${input}/posts/*.md`);
   });
 
+  eleventyConfig.addPassthroughCopy(`${input}/css`);
+
   return {
     dir: {
       input: input
