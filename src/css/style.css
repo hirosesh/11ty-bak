@@ -20,3 +20,13 @@ body {
   max-width: 62.5rem; /* 1000px */
   padding: 0 4%;
 }
+
+.site-title {
+  font-family: "Courier New", monospace;
+  font-size: 1.25rem;
+}
+
+.site-title a {
+  color: inherit;
+  text-decoration: none;
+}
