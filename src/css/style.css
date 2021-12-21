@@ -61,3 +61,8 @@ a:visited {
 .posts-list li {
   margin: 0.5em 0;
 }
+
+.post-content {
+  margin: 0 auto;
+  max-width: 45rem; /* 720px */
+}
