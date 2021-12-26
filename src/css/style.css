@@ -71,3 +71,12 @@ a:visited {
   line-height: 1.75;
   margin: 1.75em 0;
 }
+
+.post-content li {
+  line-height: 1.5;
+  margin: 0.5em 0;
+}
+
+.post-content ul ul li {
+  margin: 0.25em 0;
+}
