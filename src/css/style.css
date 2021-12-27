@@ -42,6 +42,13 @@ a:visited {
   color: #733EA5;
 }
 
+pre {
+  border: 1px solid #CFCFCF;
+  border-radius: 5px;
+  overflow: scroll;
+  padding: 1em;
+}
+
 .wrapper {
   margin: 0 auto;
   max-width: 62.5rem; /* 1000px */
